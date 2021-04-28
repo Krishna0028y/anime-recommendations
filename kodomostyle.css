@@ -1,0 +1,14 @@
+body{
+    background-color: teal;
+}
+.header{
+    background-color: black;
+}
+.mid{
+    background-color:indigo;
+    color:lightblue
+}
+.mid2{
+    background-color:blue;
+    color:yellow;
+}
